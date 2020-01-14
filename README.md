@@ -7,9 +7,12 @@ The Census income dataset is used (https://archive.ics.uci.edu/ml/datasets/censu
 
 ## Content 
 
-•	Data cleaning and analysis was performed 
+•	Data cleaning and analysis was performed
+
 •	Implementing a pipeline to automate the process
+
 •	Multiple predictive models were implemented
+
 •	Visualize the results to gain insight about the structure of the data
 
 
