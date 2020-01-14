@@ -11,7 +11,7 @@ The Census income dataset is used (https://archive.ics.uci.edu/ml/datasets/censu
 
 •	Implementing a pipeline to automate the process
 
-•	Multiple predictive models were implemented
+•	Multiple predictive models were tested
 
 •	Visualize the results to gain insight about the structure of the data
 
